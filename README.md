@@ -1,12 +1,11 @@
 ### Bem Vindo!!
 ### #Kellileni #Estudante De Tecnico Em Ti
 
-  ✨- Estudante de Técnico em Informática | Focado em Hardware, Programação e IA
- - Sou estudante do curso Técnico em Informática no SENAC, atualmente aprofundando meus conhecimentos em hardware, 
-eletricidade básica, eletrônica com Arduino, Git/GitHub e Inteligência Artificial. 
-   Tenho interesse em desenvolver carreira na área de tecnologia, especialmente em suporte, programação e automação.
- - Busco oportunidades para aplicar meus conhecimentos, aprender com profissionais experientes e contribuir em projetos
-inovadores.
+   ✨- Estudante de Técnico em Informática | Focado em Hardware, Programação e IA
+ -"Sou estudante do curso Técnico em Informática no Senac, onde tenho desenvolvido uma base sólida em hardware, elétrica, eletrônica com Arduino, Git/GitHub e inteligência artificial. 
+ Tenho paixão por explorar como a tecnologia pode resolver problemas e transformar ideias em soluções criativas.
+  *Busco constantemente novos aprendizados e desafios, acreditando que cada projeto é uma oportunidade de crescimento e inovação.
+
 
 
 
