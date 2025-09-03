@@ -8,7 +8,7 @@
 
   :
 
-###👋 Sobre mim
+### 👋 Sobre mim
 
 🎓 Estudante do curso Técnico em Informática – Senac Tatuapé
 
