@@ -6,10 +6,11 @@
  Tenho paixão por explorar como a tecnologia pode resolver problemas e transformar ideias em soluções criativas.
   *Busco constantemente novos aprendizados e desafios, acreditando que cada projeto é uma oportunidade de crescimento e inovação.
 
-  ...
+  ---
+
 
 ### 👋 Sobre mim
-
+---
 🎓 Estudante do curso Técnico em Informática – Senac Tatuapé
 
 💻 Interesse em hardware, elétrica e eletrônica (Arduino)
