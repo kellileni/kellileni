@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/d2334546-2479-41a5-ab89-7f5815c15023)
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1ea7b619-9569-4afa-8650-2c8b11a66877" />
 
 ### Bem Vindo!!
 ---
